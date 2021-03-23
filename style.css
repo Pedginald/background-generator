@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+body {
+    font-family: 'Monoton', cursive, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+    background: linear-gradient(to right, #00ff00, #ff0000);
+}
