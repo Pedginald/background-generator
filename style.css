@@ -6,15 +6,19 @@ body {
     letter-spacing: .5em;
     top: 15%;
     background: linear-gradient(to right, #00ff00, #ff0000);
+    color: rgba(0,0,0,0.7);
 }
 
 h1 {
     font: 600 3.5em 'Monoton', cursive, sans-serif;
-    color: rgba(0,0,0,0.5);
     width: 100%;
 }
 
 h2 {
     font: 500 1.3em 'Tahoma';
-    color: rgba(0,0,0,0.6);
+}
+
+h3 {
+    font: 500 0.8em 'Tahoma';
+    text-transform: none;
 }
