@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
 
 body {
-    font: 'Monoton', cursive, sans-serif;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
@@ -10,7 +9,12 @@ body {
 }
 
 h1 {
-    font: 3.5em 'Monoton', cursive, sans-serif;
-    color: rgba(0,0,0,0.7);
+    font: 600 3.5em 'Monoton', cursive, sans-serif;
+    color: rgba(0,0,0,0.5);
     width: 100%;
+}
+
+h2 {
+    font: 500 1.3em 'Tahoma';
+    color: rgba(0,0,0,0.6);
 }
